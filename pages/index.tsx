@@ -140,9 +140,9 @@ const Home: NextPage = () => {
               <li className="flex flex-wrap justify-end py-5 px-0">
                 <time dateTime="2021-12-29T17:00:00">2021.12.29</time>
                 <span>
-                  <a href="/">お知らせ</a>
+                  <Link href="/">お知らせ</Link>
                 </span>
-                <a href="/">2022年新春初売りのお知らせ</a>
+                <Link href="/">2022年新春初売りのお知らせ</Link>
               </li>
             </ul>
             <div></div>
